@@ -1,0 +1,17 @@
+{
+    "name": "v/chat_v2",
+    "autoload": {
+        "psr-4": {
+            "V\\ChatV2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mr Code",
+            "email": "work.vladshamrai@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-sockets": "*"
+    }
+}
